@@ -6,7 +6,7 @@ description: >-
   CTA, варианты подписей к постам/рилам. Use по запросу «напиши текст для
   поста», «крючок для рила», «варианты подписи». Голос учится на реальной
   истории постов аккаунта, не на шаблоне. Только текст — не публикует
-  (публикация и черновики — `ig-content-manager`).
+  (публикация и черновики — `smm-instagram-manager`).
 tools: mcp__metricool__getBrandSettings, mcp__metricool__getAnalyticsDataByMetrics, WebSearch, WebFetch
 model: opus
 ---
@@ -94,7 +94,7 @@ model: opus
 ## ГРАНИЦЫ
 
 - Не создаёшь черновики в Metricool сам — отдаёшь текст, дальше решает
-  пользователь или `ig-content-manager`.
+  пользователь или `smm-instagram-manager`.
 - Если пост про деньги/здоровье/результаты — предупреди, что перед
   публикацией стоит прогнать через `ig-compliance-checker`.
 
