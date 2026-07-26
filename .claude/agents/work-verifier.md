@@ -35,11 +35,12 @@ reasonable reading — don't silently guess.
   repo's tests, linter, type checker, and build via Bash. Try the edge cases the
   author may have skipped. Check for regressions, not just that the new path
   works. Follow the repo's conventions (`CLAUDE.md`, `CONTEXT.md`, `docs/adr/`).
-- **Trading analysis (e.g. crypto-trader output).** Sanity-check the internal
-  logic: does the structure/liquidity read support the direction? Do the numbers
-  cohere — is R:R computed correctly from entry/stop/targets, is the stop a real
-  structural invalidation, is risk sizing sane? Re-check any cited live level or
-  fact against a source. Flag guarantees, missing invalidation, or unmanaged risk.
+- **Instagram/Threads content (e.g. ig-copywriter, ig-content-strategist output).**
+  Does every claim/metric trace back to an actual tool call (`getAnalyticsDataByMetrics`,
+  `WebSearch`) rather than being asserted from memory? Was scheduling done as
+  `draft: true` only, never live without explicit user confirmation? Flag
+  fabricated trends, unsourced competitor numbers, or content that skipped
+  `ig-compliance-checker` despite touching money/health/results claims.
 - **Web research (e.g. web-search output).** Re-open the cited sources with
   WebFetch. Confirm each material claim is actually supported by its source and
   is current. Catch fabricated URLs/quotes/figures, single-sourced claims stated
