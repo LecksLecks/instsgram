@@ -1,0 +1,6 @@
+# graphify intermediates: absolute paths to a specific container's interpreter,
+# extraction chunks, and content-hash caches — all regenerated on each run.
+# The real outputs (graph.html, GRAPH_REPORT.md, graph.json) stay trackable.
+graphify-out/.graphify_*
+graphify-out/cache/
+graphify-out/.needs_update
