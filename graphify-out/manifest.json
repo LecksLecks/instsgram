@@ -1,0 +1,197 @@
+{
+  ".claude/hooks/session-start.sh": {
+    "mtime": 1785314196.091497,
+    "ast_hash": "16e61aa96e6545bb5ad24ce94298b7a7",
+    "semantic_hash": "16e61aa96e6545bb5ad24ce94298b7a7"
+  },
+  ".claude/settings.json": {
+    "mtime": 1785314205.4385388,
+    "ast_hash": "3850be437051ab4f71f6bcc13d97fbaa",
+    "semantic_hash": "3850be437051ab4f71f6bcc13d97fbaa"
+  },
+  ".claude/agents/agent-factory.md": {
+    "mtime": 1784969062.8791807,
+    "ast_hash": "7daf36f76a065a821573b8f5de2eb94c",
+    "semantic_hash": "7daf36f76a065a821573b8f5de2eb94c"
+  },
+  ".claude/agents/bug-diagnostician.md": {
+    "mtime": 1784937395.3716617,
+    "ast_hash": "e68a167f955291c183059b814d3ce867",
+    "semantic_hash": "e68a167f955291c183059b814d3ce867"
+  },
+  ".claude/agents/code-craftsman.md": {
+    "mtime": 1784937395.3736694,
+    "ast_hash": "08815465f6446b1010653c6d759872ff",
+    "semantic_hash": "08815465f6446b1010653c6d759872ff"
+  },
+  ".claude/agents/ig-compliance-checker.md": {
+    "mtime": 1784937395.3736694,
+    "ast_hash": "639dc8219a2f67fc071a771a6358a7de",
+    "semantic_hash": "639dc8219a2f67fc071a771a6358a7de"
+  },
+  ".claude/agents/ig-content-strategist.md": {
+    "mtime": 1784937756.6044161,
+    "ast_hash": "b0cd7a59c02a4543b9fa8e8ff4d425c9",
+    "semantic_hash": "b0cd7a59c02a4543b9fa8e8ff4d425c9"
+  },
+  ".claude/agents/ig-copywriter.md": {
+    "mtime": 1784937754.7884161,
+    "ast_hash": "6d0ca060da58ce4e707e96c65737a6e6",
+    "semantic_hash": "6d0ca060da58ce4e707e96c65737a6e6"
+  },
+  ".claude/agents/ig-creative-director.md": {
+    "mtime": 1784937395.3736694,
+    "ast_hash": "e8001cdd59fc35f7764e22a2b0efeca7",
+    "semantic_hash": "e8001cdd59fc35f7764e22a2b0efeca7"
+  },
+  ".claude/agents/ig-performance-analyst.md": {
+    "mtime": 1784937758.0604162,
+    "ast_hash": "f21147cea755dcb18e03a3c3b691f01a",
+    "semantic_hash": "f21147cea755dcb18e03a3c3b691f01a"
+  },
+  ".claude/agents/ig-trend-scout.md": {
+    "mtime": 1784937751.1524158,
+    "ast_hash": "bb9220f275ebd187369ec2f7e83fc2f3",
+    "semantic_hash": "bb9220f275ebd187369ec2f7e83fc2f3"
+  },
+  ".claude/agents/instagram-agent-supervisor.md": {
+    "mtime": 1784937770.652417,
+    "ast_hash": "f1b7c6398002acd879b88edb4df7c94f",
+    "semantic_hash": "f1b7c6398002acd879b88edb4df7c94f"
+  },
+  ".claude/agents/instagram-competitor-analyst.md": {
+    "mtime": 1784937395.3883946,
+    "ast_hash": "d1595f47308a56535aec74553b98b4d1",
+    "semantic_hash": "d1595f47308a56535aec74553b98b4d1"
+  },
+  ".claude/agents/instagram-producer.md": {
+    "mtime": 1784937760.2404163,
+    "ast_hash": "10936893b3026fbc2e81fd8685b6c2c5",
+    "semantic_hash": "10936893b3026fbc2e81fd8685b6c2c5"
+  },
+  ".claude/agents/n8n-agent-builder.md": {
+    "mtime": 1784937395.3883946,
+    "ast_hash": "685938b9c222bf64b80bc65acbecd3c7",
+    "semantic_hash": "685938b9c222bf64b80bc65acbecd3c7"
+  },
+  ".claude/agents/prompt-engineer.md": {
+    "mtime": 1784937395.3883946,
+    "ast_hash": "e992f0d56cf428bf820e940c09ebec11",
+    "semantic_hash": "e992f0d56cf428bf820e940c09ebec11"
+  },
+  ".claude/agents/reels-editor.md": {
+    "mtime": 1784937764.6044166,
+    "ast_hash": "4209fc2a8f5b9ba61047e5d6fcccb26d",
+    "semantic_hash": "4209fc2a8f5b9ba61047e5d6fcccb26d"
+  },
+  ".claude/agents/smm-instagram-manager.md": {
+    "mtime": 1785095811.2141335,
+    "ast_hash": "498f8780aa8c64bb39f3ac19d27dd8b2",
+    "semantic_hash": "498f8780aa8c64bb39f3ac19d27dd8b2"
+  },
+  ".claude/agents/threads-content-strategist.md": {
+    "mtime": 1784937395.4003947,
+    "ast_hash": "03f1acb6c102cb9eba274b8427b02c23",
+    "semantic_hash": "03f1acb6c102cb9eba274b8427b02c23"
+  },
+  ".claude/agents/threads-copywriter.md": {
+    "mtime": 1784937395.4003947,
+    "ast_hash": "f3eccbef75712a41e0251520706e0bbf",
+    "semantic_hash": "f3eccbef75712a41e0251520706e0bbf"
+  },
+  ".claude/agents/threads-engagement-manager.md": {
+    "mtime": 1784937395.4003947,
+    "ast_hash": "bc799d7c97310175534b0c010108eb79",
+    "semantic_hash": "bc799d7c97310175534b0c010108eb79"
+  },
+  ".claude/agents/token-optimizer.md": {
+    "mtime": 1784937948.2084274,
+    "ast_hash": "f59b50d6d27302be9d1b2315cab3981f",
+    "semantic_hash": "f59b50d6d27302be9d1b2315cab3981f"
+  },
+  ".claude/agents/web-researcher.md": {
+    "mtime": 1784937395.4003947,
+    "ast_hash": "5f3d00311b3158b3ea60e80eb657220f",
+    "semantic_hash": "5f3d00311b3158b3ea60e80eb657220f"
+  },
+  ".claude/agents/web-search.md": {
+    "mtime": 1784937395.4003947,
+    "ast_hash": "bf3954b022b857d53d228db7d2785c3b",
+    "semantic_hash": "bf3954b022b857d53d228db7d2785c3b"
+  },
+  ".claude/agents/work-verifier.md": {
+    "mtime": 1784937952.284428,
+    "ast_hash": "20ded9ca13b931c746ba0dd9c73d3629",
+    "semantic_hash": "20ded9ca13b931c746ba0dd9c73d3629"
+  },
+  ".claude/skills/agent-router/SKILL.md": {
+    "mtime": 1784969085.875182,
+    "ast_hash": "e446132360e7952724223d8061115516",
+    "semantic_hash": "e446132360e7952724223d8061115516"
+  },
+  ".claude/skills/graphify/SKILL.md": {
+    "mtime": 1785314182.8364615,
+    "ast_hash": "dfb0a6554c4af62df6effc61c6c7d245",
+    "semantic_hash": "dfb0a6554c4af62df6effc61c6c7d245"
+  },
+  ".claude/skills/graphify/references/add-watch.md": {
+    "mtime": 1785314182.8373966,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": "d59d027fe449f06aa03905a01184e779"
+  },
+  ".claude/skills/graphify/references/exports.md": {
+    "mtime": 1785314182.8369927,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": "9da2a2152e60a22f07f05fed5158f287"
+  },
+  ".claude/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1785314182.8370786,
+    "ast_hash": "42fef56a01698118f7fd722acdadea34",
+    "semantic_hash": "42fef56a01698118f7fd722acdadea34"
+  },
+  ".claude/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1785314182.8373036,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  ".claude/skills/graphify/references/hooks.md": {
+    "mtime": 1785314182.8370578,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  ".claude/skills/graphify/references/query.md": {
+    "mtime": 1785314182.837324,
+    "ast_hash": "3c46f8ad006874260614ed8657d02307",
+    "semantic_hash": "3c46f8ad006874260614ed8657d02307"
+  },
+  ".claude/skills/graphify/references/transcribe.md": {
+    "mtime": 1785314182.8371277,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": "67b6a5fa6c0974e18f60db9f8932fbd8"
+  },
+  ".claude/skills/graphify/references/update.md": {
+    "mtime": 1785314182.8372197,
+    "ast_hash": "9378bd03d56baaf78bd738ab3848f142",
+    "semantic_hash": "9378bd03d56baaf78bd738ab3848f142"
+  },
+  ".claude/skills/llm-council/SKILL.md": {
+    "mtime": 1784938500.6764603,
+    "ast_hash": "16a42bf18932c4bbea905284e3c1c4cc",
+    "semantic_hash": "16a42bf18932c4bbea905284e3c1c4cc"
+  },
+  ".claude/skills/task-coordinator/SKILL.md": {
+    "mtime": 1784937944.9364274,
+    "ast_hash": "47abee8421b5889bc57a38c303a1ab81",
+    "semantic_hash": "47abee8421b5889bc57a38c303a1ab81"
+  },
+  "CLAUDE.md": {
+    "mtime": 1784969072.8191812,
+    "ast_hash": "8660376f2911874a1f6c26f35e050f1a",
+    "semantic_hash": "8660376f2911874a1f6c26f35e050f1a"
+  },
+  "docs/love-lecks-growth-plan.md": {
+    "mtime": 1785187240.1765094,
+    "ast_hash": "c8403968e3be342bf41bd7f9140b3d01",
+    "semantic_hash": "c8403968e3be342bf41bd7f9140b3d01"
+  }
+}
